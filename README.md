@@ -48,9 +48,9 @@ $generator->init();
 
 ```
 ## Metodlar
-##` init()`
+## `init()`
 `scssColorChanger`'ı başlatır ve işlemi başlatır. Tüm SCSS dosyalarını işler, renk değişkenlerini oluşturur ve çıkış dosyasını günceller.
-##` getFileList()`
+## `getFileList()`
 İlgili taranan dizindeki SCSS dosyalarının bir listesini döndürür.
 ## Diğer Metodlar
 
